@@ -8,6 +8,7 @@ TMDB 5000 movies dataset on kaggle
 
 # Demo
 Site: https://recmod.herokuapp.com/
+Github Repository: https://github.com/CK-ctrl/recsys.git
 
 # Walk-through
 
